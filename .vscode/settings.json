@@ -1,3 +1,4 @@
 {
-  "editor.fontFamily": "PragmataPro"
+  "editor.fontFamily": "PragmataPro",
+  "liveServer.settings.port": 5501
 }
